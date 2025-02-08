@@ -1,0 +1,51 @@
+/* *{
+    margin-left: 150px;
+} */
+
+.form{
+    border-style: solid;
+    border-color: black;
+    border-width: 0.5px;
+    width: 350px;
+    margin-left: 20px;
+    padding: 20px;
+}
+
+.maislargo{
+    width: 335px;
+}
+
+.data    {
+    width: 112px;
+}
+
+.genero {
+    margin: 3px;   
+    border-style: solid;
+    border-color: black;
+    border-width: 0.5px;
+}
+
+.genero input{
+    margin: 3px;
+}
+
+.politica{
+    font-size: x-small;
+
+}
+
+.termo{
+    color: blue;
+}
+
+.botao{
+    font-weight: bolder;
+    background-color: #22b14c;
+    border-radius: 5px;
+    font-size: larger;
+    color: white;
+    border-style: hidden;
+    margin-left: 135px;
+    margin-bottom: 20px ;
+}
